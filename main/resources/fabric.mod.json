@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "crafterpresets",
+  "version": "${version}",
+  "name": "Crafter Presets",
+  "description": "Save and load slot-disable patterns for the Crafter block.",
+  "authors": ["SkyDannyCZ"],
+  "contact": {
+    "sources": "https://github.com/SkyDannyCZ/crafter-presets-mod"
+  },
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.crafterpresets.client.CrafterPresetsClient"
+    ]
+  },
+  "mixins": [
+    "crafterpresets.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": "~1.21.1",
+    "java": ">=21"
+  }
+}

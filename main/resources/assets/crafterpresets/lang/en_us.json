@@ -1,0 +1,12 @@
+{
+  "crafterpresets.screen.title": "Crafter Presets",
+  "crafterpresets.button.presets": "Presets",
+  "crafterpresets.button.save": "Save",
+  "crafterpresets.button.load": "Load",
+  "crafterpresets.button.delete": "Delete",
+  "crafterpresets.button.back": "Back",
+  "crafterpresets.label.name": "Preset name",
+  "crafterpresets.label.empty": "No presets saved yet.",
+  "crafterpresets.label.slots": "slots",
+  "crafterpresets.label.disabled": "disabled"
+}

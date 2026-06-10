@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.crafterpresets.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "CrafterScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
